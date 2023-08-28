@@ -1,2 +1,7 @@
 # LaTeX-Resume
-My resume in LaTeX, feel free to copy the format for your own professional use.
+
+Thanks for checking out this project, I hope you find it useful for your endeavors.
+
+Best of luck,
+
+Alexander Baker.
